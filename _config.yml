@@ -1,0 +1,17 @@
+exclude: []
+include: []
+encoding : utf-8
+timezone: Asia/Shanghai
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+title: 莫离君的博客
+description: 若问生涯原是梦，除梦里，没人知。
+url: http://gongvirgil.github.io
+feed: /feed.xml
+author: 莫离
+short_name: gongvirgil
+pre-site: gong-
+param-cate: CATE
+param-tag: TAG

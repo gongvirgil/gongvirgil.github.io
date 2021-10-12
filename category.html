@@ -1,0 +1,16 @@
+---
+layout: index
+---
+<div class="cate-list">
+  <div class="cate-list-inner inner">
+  {% include category-box.html %}
+  {% for category in site.categories %}
+    <div class="categories">
+        <h2 id="{{ category | first }}">{{ category | first }}<span class="post-num">（共{{ category | last | size }}篇）</span></h2>
+        {% for post in category.last %}
+        <li><span class="post-item-date">{{ post.date | date:"%Y-%m-%d" }}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </div>
+  {% endfor %}  
+  </div>
+</div>                     

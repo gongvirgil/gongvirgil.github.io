@@ -1,0 +1,31 @@
+<header class="header">
+  <div class="header-inner">
+    <div class="avatar">     
+      <a title="{{ site.title }}" href="/"><img width="80" height="80" src="/public/images/avatar.jpg" class="circle"></a>
+    </div>  
+    <div class="blog-title">
+      <a title="{{ site.title }}" href="/"><h2>{{ site.title }}</h2></a>
+    </div> 
+    <div class="blog-description">
+      <p>{{ site.description }}</p>
+    </div> 
+    <div class="links">
+      <a title="home" href="/"><i class="fa fa-2x fa-home"></i></a>
+      <a title="about me" href="/about.html"><i class="fa fa-2x fa-user"></i></a>
+      <a title="github" href="https://github.com/gongvirgil" target="_blank"><i class="fa fa-2x fa-github"></i></a>
+      <a title="weibo" href="http://weibo.com/ppmoli" target="_blank"><i class="fa fa-2x fa-weibo"></i></a>
+      <a title="RSS订阅" href="/feed.xml" target="_blank"><i class="fa fa-2x fa-rss"></i></a>
+    </div> 
+    <div class="calculates">  
+      <div class="calculate-item">
+        <a href="/archive.html"><span class="calculate-item-count">{{ site.posts.size }}</span><span class="calculate-item-name">归档</span></a>
+      </div>
+      <div class="calculate-item">
+        <a href="/category.html"><span class="calculate-item-count">{{ site.categories.size }}</span><span class="calculate-item-name">分类</span></a>
+      </div>
+      <div class="calculate-item">
+        <a href="/tag.html"><span class="calculate-item-count">{{ site.tags.size }}</span><span class="calculate-item-name">标签</span></a>
+      </div>
+    </div>
+  </div>
+</header>

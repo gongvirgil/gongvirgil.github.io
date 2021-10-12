@@ -1,0 +1,258 @@
+body {
+    /* font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; */
+    font-family: "微软雅黑", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Cambria, Georgia, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", "Times New Roman", serif;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.post h1 {
+    padding: 20px 0;
+}
+
+.post h2 {
+    padding: 15px 0;
+}
+
+.post h3 {
+    padding: 10px 0;
+}
+
+.post h4,
+.post h5,
+.post h6 {
+    padding: 5px 0;
+}
+
+.ds-thread {
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+.post-main {
+    color: #555;
+}
+
+#content p {
+    margin-bottom: 0.5em;
+}
+
+.post .post-title {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.post .post-content {
+    min-height: 100px;
+    padding: 20px 0;
+    overflow: hidden;
+    font-size: 15px;
+}
+
+.post-content a {
+    color: #2fa691;
+}
+
+.post-content a:hover {
+    text-decoration: underline;
+}
+
+.post-content ul>li {
+    margin-left: 1em;
+}
+
+.post-relate {
+    color: #a7aab1;
+    font-size: 12px;
+}
+
+.post-tags a {
+    margin-left: 10px;
+}
+
+.donate {
+    text-align: center;
+    margin: 1em 0 4em;
+}
+
+.donate-btn {
+    background-color: #f8ac59;
+    border: 1px solid #f8ac59;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.donate-btn:active,
+.donate-btn:hover {
+    color: #fff;
+    background-color: #f7a54a;
+    border-color: #f7a54a;
+}
+
+.donate-info {
+    color: #999;
+    margin: 0.5em 0;
+}
+
+.donate-qr-code {
+    display: none;
+}
+
+.pre-next {
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.pre-next li {
+    display: inline-block;
+    width: 50%;
+}
+
+.pre {
+    text-align: left;
+}
+
+.next {
+    text-align: right;
+}
+
+.pre a {
+    margin-left: 0.5em;
+}
+
+.next a {
+    margin-right: 0.5em;
+}
+
+.pre a,
+.pre i,
+.next a,
+.next i {
+    color: #999;
+}
+
+.pre:hover a,
+.pre:hover i,
+.next:hover a,
+.next:hover i {
+    opacity: 1;
+    color: #222;
+    font-weight: bold;
+}
+
+
+/*----tools----*/
+
+.tools {
+    font-size: 12px;
+}
+
+
+/*----tools end----*/
+
+
+/*Table of contents*/
+
+.post-anchor {
+    line-height: 180%;
+    position: absolute;
+    right: 2%;
+    top: 175px;
+    padding: 1%;
+    background-color: #fff;
+    list-style-type: none;
+    z-index: 99;
+    box-shadow: 0 0 10px #bdbdbd;
+}
+
+#BlogAnchor h4 {
+    border-bottom: 1px solid #ccc;
+    color: #2FA691;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 5px 0;
+}
+
+#AnchorContent {
+    display: none;
+    height: 400px;
+    overflow: auto;
+}
+
+.newh1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.newh2 {
+    font-size: 16px;
+}
+
+.newh3 {
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.newh4 {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.newh5 {
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.newh5 {
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+
+/* .BlogAnchor p {
+    font-size: 18px;
+    color: #15a230;
+    margin-bottom: 0.3em;
+}
+
+.BlogAnchor .AnchorContent {
+    padding: 5px 0px;
+}
+
+.BlogAnchor li {
+    text-indent: 20px;
+    font-size: 12px;
+}
+
+#AnchorContentToggle {
+    font-size: 13px;
+    font-weight: normal;
+    color: #FFF;
+    display: inline-block;
+    line-height: 20px;
+    background: #5cc26f;
+    font-style: normal;
+    padding: 1px 8px;
+    margin-right: 10px;
+} */

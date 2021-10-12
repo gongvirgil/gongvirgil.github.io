@@ -1,0 +1,16 @@
+{
+    "Name": {
+        "NickName": "莫离",
+        "Account": "ppmoli"
+    },
+    "Link": {
+        "Github": "https://github.com/gongvirgil",
+        "GithubBlog": "http://gongvirgil.github.io"
+    },
+    "Image": {
+        "Avatar": "http://gongvirgil.github.io/public/images/avatar.jpg",
+        "AlipayQRCode": "http://gongvirgil.github.io/public/images/alipay.png",
+        "WeChatQRCode": "http://gongvirgil.github.io/public/images/wechat.png"
+    }
+
+}

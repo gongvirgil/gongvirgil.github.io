@@ -1,0 +1,24 @@
+<div id="tag" class="item-box">
+    <h2>标签</h2>
+    <div  class="item-box-content tag-cloud">
+    {% for tag in site.tags %}
+      {% assign temp = tag[1].size %}
+      {% assign base = temp | divided_by: 4 %}
+      {% assign remain = temp | modulo: 4 %}
+      {% if remain == 0 %}
+        {% assign size = base | plus: 9 %}
+      {% elsif remain == 1 or remain == 2 %}
+        {% assign size = base | plus: 9 | append: '.5' %}
+      {% else %}
+        {% assign size = base | plus: 10 %}
+      {% endif %}
+      {% if remain == 0 or remain == 1 %}
+        {% assign color = 9 | minus: base %}
+      {% else %}
+        {% assign color = 8 | minus: base %}
+      {% endif %}
+      <a href="/tag.html?{{ site.param-tag }}={{ tag[0] }}" title="{{ tag[1].size }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
+    {% endfor %}
+    </div>
+    <div class="clear"></div>
+</div>

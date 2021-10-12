@@ -1,0 +1,63 @@
+---
+layout: index
+comments: true
+---
+    <link rel="stylesheet" type="text/css" href="/public/css/post.css">
+    <link rel="stylesheet" type="text/css" href="/public/css/prettify.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/public/css/poole.css"> -->
+    <script type="text/javascript" src="/public/js/post.js"></script>
+    <script type="text/javascript" src="/public/js/ZeroClipboard.min.js"></script>
+    <div class="post-main">
+        <div class="post-main-inner inner">
+            <div id="content">
+                <div class="post">
+                    <div class="post-title">
+                        <h1>{{ page.title }}</h1>
+                    </div>
+                    <div class="post-relate">
+                        <span class="post-date">{{ page.date|date:"%Y-%m-%d" }}</span>
+                        <span class="post-categories">{{ page.categories }}</span>
+                        <span class="post-tags">
+                            {% for tag in page.tags %}
+                                <a href="{{site.baseurl}}/tag.html?{{ site.param-tag }}={{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+                            {% endfor %}
+                        </span>
+                    </div>
+                    <div class="post-content">
+                        {{ content }}            
+                    </div>
+                </div>
+                <div class="donate">
+                    <div class="donate-to-me">
+                        <a class="donate-btn">￥打赏支持</a>
+                        <p class="donate-info">对你有所帮助？打赏一袋辣条吧~</p>
+                    </div>
+                    <div class="donate-qr-code">
+                        <img class="alipay" src="/public/images/alipay.png" />
+                        <img class="wechat" src="/public/images/wechat.png" />
+                    </div>
+                </div>
+                <div class="pre-next">
+                    <li class="pre">{% if page.previous != null %}<a href="{{ page.previous.url }}">←{{ page.previous.title | truncatewords:5 }}</a>{% else %}<a href="#">←没有了{% endif %}</a></li>
+                    <li class="next">{% if page.next != null %}<a href="{{ page.next.url }}">{{ page.next.title | truncatewords:5 }}→</a>{% else %}<a href="#">没有了→</a>{% endif %}</li>
+                </div>
+                <!-- 多说评论框 start -->
+                <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ page.url }}"></div>
+                <!-- 多说评论框 end -->
+            </div>
+        </div>
+    </div>
+    <div class="post-anchor">
+        <div id="BlogAnchor">
+            <h4>目录<a id="AnchorContentToggle" title="展开" style="cursor:pointer;">[<span>+</span>]</a></h4>
+            <div class="AnchorContent" id="AnchorContent"></div>
+        </div> 
+    </div>
+    <div style="clear:both;"></div>
+    <!-- -->
+    <!--
+    <div id="tools-html" style="display:none;">
+        <div class="tools"><a class="copy" title="复制"><i class="fa fa-copy"></i></a></div>
+    </div>
+    -->
+    <!-- -->
