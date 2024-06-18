@@ -42,6 +42,8 @@ LangChain 的作者是 Harrison Chase，最初是于 2022 年 10 月开源的一
 * callbacks：记录并流式传输任何链的中间步骤
 * indexes：索引指的是结构化文件的方法，以便LLM能够与它们进行最好的交互
 
+<!-- more -->
+
 ## 数据连接组件data connection
 
 LLM应用需要用户特定的数据，这些数据不属于模型的训练集。LangChain通过以下方式提供了加载、转换、存储和查询数据的构建模块：
