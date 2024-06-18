@@ -1,0 +1,20 @@
+---
+layout: index
+title: 404 Not Found!
+description: 找不到页面。
+keywords: error page, 404
+---
+<div class="error-page">
+    <div class="error-page-inner inner">
+        <div id="error-page" class="item-box">
+            <h4>{{ page.title }}</h4>
+            <div class="error-page-info">
+                <p><img width="300" src="/public/images/404.jpg" ></p>
+                <p>很抱歉，您访问的页面不存在哦~</p>
+                <p><a href="/">【返回首页】</a></p>
+            </div>
+        </div>
+        {% include category-box.html %}
+        {% include tag-box.html %}
+    </div>
+</div>
