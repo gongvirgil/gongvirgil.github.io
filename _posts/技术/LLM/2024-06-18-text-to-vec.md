@@ -2,7 +2,7 @@
 layout: post
 title: 文本向量化
 description: 文本向量化
-category: LLM
+categories: ["LLM"]
 tags: [LLM, VEC]
 date: 2024-06-18
 ---

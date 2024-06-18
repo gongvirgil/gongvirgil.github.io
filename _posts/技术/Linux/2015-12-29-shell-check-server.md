@@ -2,7 +2,7 @@
 layout: post
 title: 自动检测程序正常运行，遇故障则重启服务
 description: 自动检测程序正常运行，遇故障则重启服务
-category: Linux
+categories: ["Linux"]
 tags: [linux,shell]
 date: 2015-12-29
 ---

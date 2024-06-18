@@ -2,7 +2,7 @@
 layout: post
 title: Linux下执行shell提示错误syntax error:unexpected end of file
 description: Linux下执行shell提示错误syntax error:unexpected end of file
-category: 技术
+categories: ["技术"]
 tags: [shell,Linux]
 date: 2016-11-01
 ---

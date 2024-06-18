@@ -2,7 +2,7 @@
 layout: post
 title: 用图片隐藏信息的技术实现
 description: 用图片隐藏信息的技术实现
-category: 技术
+categories: ["技术"]
 tags: [DOS,图片,信息隐藏,加密]
 date: 2015-11-19
 ---

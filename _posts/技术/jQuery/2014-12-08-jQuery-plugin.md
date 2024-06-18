@@ -2,7 +2,7 @@
 layout: post
 title: jQuery插件开发笔记
 description: jQuery插件开发笔记
-category: jQuery
+categories: ["jQuery"]
 tags: [jQuery,笔记]
 date: 2015-12-08
 ---

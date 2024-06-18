@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll扩展的Liquid设计
 description: Jekyll扩展的Liquid设计
-category: Jekyll
+categories: ["Jekyll"]
 tags: [Jekyll,Liquid]
 date: 2015-12-03
 published: false 

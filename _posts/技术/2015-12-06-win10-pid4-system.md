@@ -2,7 +2,7 @@
 layout: post
 title: win10下80端口被PID为4的System占用问题
 description: Windows10下80端口被PID为4的System占用导致Apache无法启动的分析与解决方案
-category: 软件
+categories: ["软件"]
 tags: [软件,win10]
 date: 2015-12-16
 ---

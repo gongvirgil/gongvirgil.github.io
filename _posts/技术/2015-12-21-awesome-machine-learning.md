@@ -2,7 +2,7 @@
 layout: post
 title: Awesome Machine Learning
 description: Awesome Machine Learning
-category: 机器学习
+categories: ["机器学习"]
 tags: [机器学习]
 date: 2015-12-21
 ---

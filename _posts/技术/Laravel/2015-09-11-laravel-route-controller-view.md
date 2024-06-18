@@ -2,7 +2,7 @@
 layout: post
 title: 【laravel学习笔记】二、路由、控制器及视图简介 
 description: 路由、控制器及视图简介
-category: php
+categories: ["php"]
 tags: [laravel,笔记]
 date: 2015-09-11
 ---

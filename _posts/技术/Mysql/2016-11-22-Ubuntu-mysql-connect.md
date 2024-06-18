@@ -2,7 +2,7 @@
 layout: post
 title: 解决Ubuntu远程连接mysql连不上的问题 
 description: 解决Ubuntu远程连接mysql连不上的问题
-category: mysql
+categories: ["mysql"]
 tags: [mysql]
 date: 2016-11-22
 ---

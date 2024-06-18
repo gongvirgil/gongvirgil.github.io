@@ -2,7 +2,7 @@
 layout: post
 title: PHP类的接口`interface`
 description: PHP类的接口`interface`
-category: php
+categories: ["php"]
 tags: [php]
 date: 2017-07-17
 ---

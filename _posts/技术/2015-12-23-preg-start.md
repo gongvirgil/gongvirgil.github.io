@@ -2,7 +2,7 @@
 layout: post
 title: 正则表达式基础语法
 description: 正则表达式基础语法
-category: 正则表达式
+categories: ["正则表达式"]
 tags: [正则表达式]
 date: 2015-12-23
 ---

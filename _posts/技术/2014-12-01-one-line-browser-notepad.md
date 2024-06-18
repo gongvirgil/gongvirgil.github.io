@@ -2,7 +2,7 @@
 layout: post
 title: 一行代码，浏览器变临时编辑器
 description: 一行代码，浏览器变临时编辑器
-category: 技术
+categories: ["技术"]
 tags: [浏览器,编辑器]
 date: 2015-12-01
 ---

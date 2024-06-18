@@ -2,7 +2,7 @@
 layout: post
 title: PHP代码之使用匿名函数
 description: PHP代码之使用匿名函数
-category: php
+categories: ["php"]
 tags: [php]
 date: 2017-07-17
 ---

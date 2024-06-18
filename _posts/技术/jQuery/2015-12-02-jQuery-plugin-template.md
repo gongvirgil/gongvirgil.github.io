@@ -2,7 +2,7 @@
 layout: post
 title: jQuery插件模板
 description: jQuery插件模板
-category: jQuery
+categories: ["jQuery"]
 tags: [jQuery,插件,模板]
 date: 2015-12-02
 ---

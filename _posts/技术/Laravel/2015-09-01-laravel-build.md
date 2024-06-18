@@ -2,7 +2,7 @@
 layout: post
 title: 【laravel学习笔记】一、安装
 description: laravel学习
-category: php
+categories: ["php"]
 tags: [laravel,笔记]
 date: 2015-09-11
 ---

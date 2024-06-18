@@ -2,7 +2,7 @@
 layout: post
 title: 手把手教你认识学会LangChain
 description: 手把手教你认识学会LangChain
-category: LLM
+categories: ["LLM"]
 tags: [LLM, AI]
 date: 2024-06-18
 ---

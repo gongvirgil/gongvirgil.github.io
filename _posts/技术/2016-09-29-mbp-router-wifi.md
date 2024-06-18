@@ -2,7 +2,7 @@
 layout: post
 title: Macbook pro连接无线路由不稳定掉线的解决办法
 description: Macbook pro连接无线路由不稳定掉线的解决办法
-category: 技术
+categories: ["技术"]
 tags: [路由器,MBP]
 date: 2016-09-29
 ---

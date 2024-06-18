@@ -2,7 +2,7 @@
 layout: post
 title: linux之vi编辑器命令使用
 description: 总结了一些常用的vi命令
-category: linux
+categories: ["linux"]
 tags: [linux,vi]
 date: 2015-04-03
 ---

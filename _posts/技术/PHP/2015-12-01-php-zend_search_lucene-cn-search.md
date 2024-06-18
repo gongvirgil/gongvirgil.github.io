@@ -2,7 +2,7 @@
 layout: post
 title: 使用PHP+Zend_Search_Lucene做全站中文搜索引擎
 description: 使用PHP+Zend_Search_Lucene做全站中文搜索引擎
-category: PHP
+categories: ["PHP"]
 tags: [Zend_Search_Lucene,搜索引擎,Blog]
 date: 2015-12-01
 ---

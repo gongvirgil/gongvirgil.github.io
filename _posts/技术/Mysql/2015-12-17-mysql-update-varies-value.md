@@ -2,7 +2,7 @@
 layout: post
 title: mysql批量更新多条记录的不同值
 description: mysql批量更新多条记录的不同值
-category: mysql
+categories: ["mysql"]
 tags: [mysql,update]
 date: 2015-12-17
 ---

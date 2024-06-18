@@ -2,7 +2,7 @@
 layout: post
 title: Grunt学习
 description: Grunt学习
-category: 技术
+categories: ["技术"]
 tags: [Grunt]
 date: 2016-02-04
 published: false

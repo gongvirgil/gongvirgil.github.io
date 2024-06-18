@@ -2,7 +2,7 @@
 layout: post
 title: PHP调试执行时间
 description: PHP调试执行时间
-category: PHP
+categories: ["PHP"]
 tags: [php,调试]
 date: 2015-12-16
 ---

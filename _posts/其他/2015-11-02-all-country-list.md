@@ -2,7 +2,7 @@
 layout: post
 title: 全部国家列表
 description: 
-category: 随笔
+categories: ["随笔"]
 tags: [国家,笔记,小知识]
 date: 2015-11-02
 ---

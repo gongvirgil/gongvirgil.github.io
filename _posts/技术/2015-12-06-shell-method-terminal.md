@@ -2,7 +2,7 @@
 layout: post
 title: 执行系统命令的函数
 description: css笔记
-category: css
+categories: ["css"]
 tags: [css,笔记]
 date: 2015-12-06
 ---

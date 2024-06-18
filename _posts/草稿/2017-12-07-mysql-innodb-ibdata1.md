@@ -2,7 +2,7 @@
 layout: post
 title: ibdata1占用空间大-释放MySQL-ibdata1文件的空间
 description: ibdata1占用空间大-释放MySQL-ibdata1文件的空间-innodb共享表空间转化为独立表空间
-category: MySQL
+categories: ["MySQL"]
 tags: [MySQL]
 date: 2017-12-07
 published: false

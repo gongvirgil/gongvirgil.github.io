@@ -2,7 +2,7 @@
 layout: post
 title: PHP 判断设备是否是手机/平板的方法
 description: PHP 判断设备是否是手机/平板的方法
-category: php
+categories: ["php"]
 tags: [PHP,mobile]
 date: 2015-10-14
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 面试中遇到的一些问题总结
 description: 面试中遇到的一些问题总结
-category: [技术]
+categories: ["[技术]"]
 tags: [面试,技术,Web]
 date: 2016-03-30
 ---

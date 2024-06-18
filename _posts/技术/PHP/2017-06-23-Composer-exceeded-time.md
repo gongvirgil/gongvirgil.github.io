@@ -2,7 +2,7 @@
 layout: post
 title: Composer错误：exceeded the timeout of 300 seconds
 description: Composer错误：exceeded the timeout of 300 seconds
-category: Composer
+categories: ["Composer"]
 tags: [Composer]
 date: 2017-06-23
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: svn与git的一些区别
 description: svn与git的一些区别
-category: 技术
+categories: ["技术"]
 tags: [git,svn]
 date: 2016-03-29
 ---

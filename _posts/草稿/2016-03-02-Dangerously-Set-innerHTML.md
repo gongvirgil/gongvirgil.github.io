@@ -2,7 +2,7 @@
 layout: post
 title: React学习 之 Dangerously Set innerHTML
 description: Dangerously Set innerHTML
-category: 技术
+categories: ["技术"]
 tags: [React]
 date: 2016-03-02
 ---

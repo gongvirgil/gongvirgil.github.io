@@ -2,7 +2,7 @@
 layout: post
 title: Javascript各种数组方法
 description: Javascript各种数组方法
-category: Javascript
+categories: ["Javascript"]
 tags: [Javascript,Array]
 date: 2015-12-18
 ---

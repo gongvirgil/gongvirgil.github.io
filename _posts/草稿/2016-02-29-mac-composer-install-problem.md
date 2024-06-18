@@ -2,7 +2,7 @@
 layout: post
 title: Mac下安装composer遇到的问题
 description: Mac下安装composer遇到的问题
-category: 技术
+categories: ["技术"]
 tags: [composer,Mac,OS X]
 date: 2016-02-29
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: DataTables 的使用
 description: DataTables 的使用
-category: UI
+categories: ["UI"]
 tags: [UI,DataTables]
 date: 2016-04-20
 published: false

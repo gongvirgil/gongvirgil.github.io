@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll模板变量&语法
 description: Jekyll模板变量&语法
-category: Jekyll
+categories: ["Jekyll"]
 tags: [Jekyll]
 date: 2015-12-03
 ---

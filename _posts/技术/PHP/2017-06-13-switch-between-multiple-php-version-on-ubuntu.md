@@ -2,7 +2,7 @@
 layout: post
 title: Ubuntu上在多个PHP版本之间切换
 description: Ubuntu上在多个PHP版本之间切换
-category: php
+categories: ["php"]
 tags: [PHP,Ubuntu]
 date: 2017-06-13
 ---

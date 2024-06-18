@@ -2,7 +2,7 @@
 layout: post
 title: php获取文件夹下所有文件，包含子文件夹
 description: php获取文件夹下所有文件，包含子文件夹
-category: PHP
+categories: ["PHP"]
 tags: [php,文件夹]
 date: 2015-12-17
 ---

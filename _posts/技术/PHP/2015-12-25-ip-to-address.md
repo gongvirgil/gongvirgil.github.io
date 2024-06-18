@@ -2,7 +2,7 @@
 layout: post
 title: 根据ip查询所在地
 description: 根据ip查询所在地
-category: PHP
+categories: ["PHP"]
 tags: [php,ip]
 date: 2015-12-25
 ---

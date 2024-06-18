@@ -2,7 +2,7 @@
 layout: post
 title: Ajax跨域请求带上cookies
 description: Ajax跨域请求带上cookies
-category: 技术
+categories: ["技术"]
 tags: [Ajax,cookies,domain]
 date: 2016-05-11
 ---

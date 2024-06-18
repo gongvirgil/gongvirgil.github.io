@@ -2,7 +2,7 @@
 layout: post
 title: 几种常见的PHP加密算法
 description: 几种常见的PHP加密算法
-category: php
+categories: ["php"]
 tags: [PHP,encrypt]
 date: 2016-03-04
 ---

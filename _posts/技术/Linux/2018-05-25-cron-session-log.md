@@ -2,7 +2,7 @@
 layout: post
 title: session opened/closed for user root by (uid=0)
 description: session opened/closed for user root by (uid=0)
-category: Linux
+categories: ["Linux"]
 tags: [Linux,Cron]
 date: 2018-05-25
 ---

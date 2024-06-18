@@ -2,7 +2,7 @@
 layout: post
 title: 魔术引号magic_quotes_gpc引发的问题
 description: 魔术引号magic_quotes_gpc引发的问题
-category: PHP
+categories: ["PHP"]
 tags: [PHP]
 date: 2017-09-13
 published: false

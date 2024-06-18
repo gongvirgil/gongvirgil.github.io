@@ -2,7 +2,7 @@
 layout: post
 title: 常用的jQuery小技巧
 description: 常用的jQuery小技巧
-category: jQuery
+categories: ["jQuery"]
 tags: [jQuery]
 date: 2015-10-21
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 100 Years of Beauty
 description: 100 Years of Beauty
-category: 生活
+categories: ["生活"]
 tags: [视频]
 date: 2015-12-18
 ---

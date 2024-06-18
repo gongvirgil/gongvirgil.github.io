@@ -2,7 +2,7 @@
 layout: post
 title: 简单实用的PHP函数
 description: 收集一些简单实用的PHP函数
-category: php
+categories: ["php"]
 tags: [PHP,函数]
 date: 2015-10-10
 ---

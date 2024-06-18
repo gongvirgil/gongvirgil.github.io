@@ -2,7 +2,7 @@
 layout: post
 title: Firefox域名重定向插件——Mason
 description: Firefox域名重定向插件——Mason
-category: 软件
+categories: ["软件"]
 tags: [firefox,插件,域名,重定向]
 date: 2015-10-09
 ---

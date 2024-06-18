@@ -2,7 +2,7 @@
 layout: post
 title: 收藏到桌面的快捷方式
 description: 收藏到桌面的快捷方式
-category: PHP
+categories: ["PHP"]
 tags: [php,快捷方式]
 date: 2015-12-15
 ---

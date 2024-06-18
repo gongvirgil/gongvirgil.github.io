@@ -2,7 +2,7 @@
 layout: post
 title: 从Mysql某一表中随机读取n条数据的SQL查询语句 
 description: 从Mysql某一表中随机读取n条数据的SQL查询语句
-category: mysql
+categories: ["mysql"]
 tags: [mysql]
 date: 2015-11-26
 ---

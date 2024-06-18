@@ -2,7 +2,7 @@
 layout: post
 title: 【高并发简单解决方案】redis队列缓存 + mysql 批量入库 + php离线整合
 description: redis队列缓存 + mysql 批量入库 + php离线整合
-category: PHP
+categories: ["PHP"]
 tags: [php,redis,mysql,高并发]
 date: 2015-12-25
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 微信内置浏览器UserAgent的判断
 description: 微信内置浏览器UserAgent的判断
-category: 技术
+categories: ["技术"]
 tags: [微信,UserAgent]
 date: 2016-03-01
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 递归时内存占用问题
 description: 递归时内存占用问题
-category: php
+categories: ["php"]
 tags: [PHP,递归,内存]
 date: 2017-04-01
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: PHP设置定时任务的实现方法
 description: PHP设置定时任务的实现方法
-category: PHP
+categories: ["PHP"]
 tags: [php,定时任务]
 date: 2015-12-25
 ---

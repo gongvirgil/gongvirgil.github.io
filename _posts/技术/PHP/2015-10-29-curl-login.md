@@ -2,7 +2,7 @@
 layout: post
 title: curl模拟登陆
 description: curl模拟登陆
-category: 技术
+categories: ["技术"]
 tags: [php,curl]
 date: 2015-10-29
 ---
